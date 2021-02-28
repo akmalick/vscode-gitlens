@@ -246,30 +246,30 @@ Here are just some of the **features** that GitLens provides,
 - In the command-pallete search for `GitLens: Set Views Layout`. Hit return and choose `Source Control Layout`. This will display GitLens controls on the source control sidebar
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/eamodio/vscode-gitlens/main/images/docs/gItlens-setting" alt="Source Control Layout" />
+  <img src="https://raw.githubusercontent.com/eamodio/vscode-gitlens/main/images/docs/gItlens-setting" alt="GitLens Setting" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eamodio/vscode-gitlens/main/images/docs/gItlens-setting-source-control-layout.png" alt="Source Control Layout" />
+  <img src="https://raw.githubusercontent.com/eamodio/vscode-gitlens/main/images/docs/gItlens-setting-source-control-layout.png" alt="GitLens:Source Control Layout" />
 </p>
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/eamodio/vscode-gitlens/main/images/docs/gitlens-source-control-layout.png" alt="Source Control Layout" />
+  <img src="https://raw.githubusercontent.com/eamodio/vscode-gitlens/main/images/docs/gitlens-source-control-layout.png" alt=" GitLens Source Control Layout" />
 </p>
 
 ### GitLens Layout [#](#gitlens-layout- 'GitLens Layout')
 - In the command-pallete search for `GitLens: Set Views Layout`. Hit return and choose `GitLens Layout`. This will display GitLens on the VSCode Activity Bar and all GitLens controls are grouped together on the GitLens sidebar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eamodio/vscode-gitlens/main/images/docs/gItlens-setting" alt="Source Control Layout" />
+  <img src="https://raw.githubusercontent.com/eamodio/vscode-gitlens/main/images/docs/gItlens-setting" alt="GitLens Setting" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eamodio/vscode-gitlens/main/images/docs/gItlens-setting-activity-bar-layout.png" alt="Source Control Layout" />
+  <img src="https://raw.githubusercontent.com/eamodio/vscode-gitlens/main/images/docs/gItlens-setting-activity-bar-layout.png" alt="GitLens: GitLens Layout" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eamodio/vscode-gitlens/main/images/docs/gitlens-activity-bar-layout.png" alt="Source Control Layout" />
+  <img src="https://raw.githubusercontent.com/eamodio/vscode-gitlens/main/images/docs/gitlens-activity-bar-layout.png" alt="GitLens Layout" />
 </p>
 
 
